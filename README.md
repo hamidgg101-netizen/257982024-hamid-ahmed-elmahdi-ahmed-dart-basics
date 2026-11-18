@@ -1,7 +1,7 @@
 Dart Basics Assignment
 ======================
 
-Student Name: Hamid Ahmed Elmahdi
+Student Name: hamid ahmed elmahdi ahmed
 Registration Number: 257982024
 
 D = 4
