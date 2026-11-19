@@ -5,8 +5,6 @@
 - Created all required files.
 - Added personal registration details to Dart files.
 - Tested dart_basics.dart.
-
-## In progress
 - Part A: Variables and operators.
 - Part B: Strings.
 - Part C: Control flow.
@@ -14,6 +12,11 @@
 - Part E: Find and fix.
 - Part F: MoMo simulator.
 - Part G: Debugging log.
+
+
+## In progress  
+-Done
+
 
 ## Stuck on
 - Nothing currently.
